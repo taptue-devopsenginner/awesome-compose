@@ -103,3 +103,4 @@ docker-compose down
 
 We welcome examples that help people understand how to use Docker Compose for
 common applications. Check the [Contribution Guide](CONTRIBUTING.md) for more details. 
+# docker-nice-compose
